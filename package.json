@@ -1,0 +1,13 @@
+{
+  "name": "bad-timezones",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Van J. Wilson <van.wilson1992@alumni.unc.edu> (https://vanwilson.info)",
+  "license": "MIT"
+}
