@@ -36,7 +36,7 @@ const sampleTimezoneDict = {
 };
 
 const date1 = {
-  dt: "2019-06-18 08:00:00.000",
+  dt: "2019-06-18 08:00:00",
   tz: "Mountain Time"
 };
 
